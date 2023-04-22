@@ -1,1 +1,2 @@
 # Wine-Quality-Keras-
+In this file I predict wine quality using a neural network in Keras. I start by logging variables to create more normal distributions. For the model I use Relu as my activation funciton in the hidden layers and softmax for the output layer. I then implement regularization to reduce overfitting from the model and try to achieve highest validation accuracy. We then will use that model on the test set to see the overall accuracy of the model.
